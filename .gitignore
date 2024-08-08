@@ -1,0 +1,60 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+#user-interface
+User-Interface/
+Data/
+.ipynb_checkpoints/
+08Aug2024/
+index.html
+
+VtsModel.ipynb
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE and Editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+venv/
+*.pyc
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+
+# Excel files
+*.xlsx
+*.xls
+
+# React build artifacts
+public/
+
+# PyQt5 UI files
+*.ui
+
+# Flask-related
+instance/
+*.pyo
+*.pyd
+
+# Jest snapshots
+__snapshots__/
